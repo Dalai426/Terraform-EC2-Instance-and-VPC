@@ -1,0 +1,4 @@
+**Terraform**
+Terraform is a tool for Infrastructure as A Code built by Hashi Corp. It helps for configuring low-level infrastructures as code, enabling IT teams to version, reuse, share, and track their infrastructure configurations. As The Terraform's provide to IT teams with opportunity to access its vast ecosystem, and built their infrastructure using different existing providers.
+
+There is the gap of understanding that building infrastructure is about organizing physical systems, structures, and facilities not about managing things inside them. It means applying new configurations into an infrastructure might affect its inside.
